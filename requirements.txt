@@ -4,6 +4,6 @@ pandas
 plotly
 opencv-contrib-python
 dlib
-face_recognition
+face-recognition
 streamlit
 streamlit-option-menu
