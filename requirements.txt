@@ -6,4 +6,4 @@ opencv-contrib-python
 dlib
 face_recognition
 streamlit
-streamlit_option_menu
+streamlit-option-menu
